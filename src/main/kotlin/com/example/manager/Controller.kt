@@ -24,7 +24,7 @@ object Controller {
     }
 
     private suspend fun startGettingResponseFromIrctc(commandKey: Int, oCode: String?, dCode: String?, popularStations: ArrayList<String>, callback: suspend (Response) -> Unit) {
-        for (index in 1..maxLimit) {
+        for (index in 2..maxLimit) {
             val irctcDate: String = CommonUtils.dateFormatForIrctc(index)
             val tmDate: String = CommonUtils.dateFormatForTrainMan(index)
             val doesRun: String = CommonUtils.getDay()
