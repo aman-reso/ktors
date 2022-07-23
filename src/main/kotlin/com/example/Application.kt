@@ -21,13 +21,6 @@ fun Application.module(testing: Boolean = false) {
     configureRouting()
 }
 
-//fun main() {
-//    val envVar: String = System.getenv("PORT") ?: "8080"
-//    embeddedServer(Netty, port = envVar.toInt(), host = "0.0.0.0") {
-//        configureSerialization()
-//        configureRouting()
-//    }.start(wait = true)
-//}
 
 fun Application.configureSerialization() {
     install(ContentNegotiation) {

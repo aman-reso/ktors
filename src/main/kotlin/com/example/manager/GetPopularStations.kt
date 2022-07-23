@@ -6,7 +6,7 @@ import org.json.JSONObject
 class GetPopularStations {
     suspend fun getPopularStations(): ArrayList<String> {
         val stationListV2 = ArrayList<String>()
-        RestAssured.baseURI = "https://www.trainman.in"
+        RestAssured.baseURI = "https://dev.flightman.in"
         val response = RestAssured.given()
             .`when`()["/services/get-popular-stations"]
             .then().assertThat().statusCode(200)

@@ -14,20 +14,20 @@ class GetTrainListFromIrctc {
         val response: String = given().header("greq", currentTimeStamp).header("Content-Type", "application/json")
             .body(CommonUtils.getTrainListIRCTC(origin, dest, irctcDate))
             .`when`().post(path)
-            .then().assertThat().statusCode(200)
-            .extract().response().asString()
+            .then().extract().response().asString()
 
         val trainListUnderIRCTC = ArrayList<String>()
         try {
             val jsonObject = JSONObject(response)
             if (jsonObject.has("trainBtwnStnsList")) {
-                when (val btwnStn: Any = jsonObject.get("trainBtwnStnsList")) {
+                when (jsonObject.get("trainBtwnStnsList")) {
                     is JSONObject -> {
-                        val jsonResponse = JSONObject(response)
-                        val trainListObject: JSONObject = jsonResponse.getJSONObject("trainBtwnStnsList")
+                        val trainListObject: JSONObject = jsonObject.getJSONObject("trainBtwnStnsList")
                         val doesRunToday: String = trainListObject.getString(doesRun)
-                        if (doesRunToday == "Y") {
-                            val trainNumber: String = trainListObject.getString("trainNumber")
+                        val trainNumber: String = trainListObject.getString("trainNumber")
+                        val fromStnCode: String =trainListObject.getString("fromStnCode")
+                        val toStnCode: String = trainListObject.getString("toStnCode")
+                        if (doesRunToday == "Y" && fromStnCode == origin && toStnCode == dest) {
                             trainListUnderIRCTC.add(trainNumber)
                         }
                     }
@@ -37,7 +37,7 @@ class GetTrainListFromIrctc {
                             val doesRunToday: String = trainList.getJSONObject(i).getString(doesRun)
                             val fromStnCode: String = trainList.getJSONObject(i).getString("fromStnCode")
                             val toStnCode: String = trainList.getJSONObject(i).getString("toStnCode")
-                            if (doesRunToday == "Y" && toStnCode == dest && fromStnCode == origin) {
+                            if (doesRunToday == "Y" && fromStnCode == origin && toStnCode == dest ) {
                                 val trainNumber: String = trainList.getJSONObject(i).getString("trainNumber")
                                 trainListUnderIRCTC.add(trainNumber)
                             }

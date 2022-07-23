@@ -18,8 +18,7 @@ class GetTrainListFromTM {
                     .queryParam("quota", "GN").queryParam("meta", "true").queryParam("class", "ALL")
                     .queryParam("date", tmDate)
                     .`when`().get("services/trains/$origin/$dest")
-                    .then().assertThat().statusCode(200)
-                    .extract().response().asString()
+                    .then().extract().response().asString()
             val jsonObject = JSONObject(response)
             val trainsArray: JSONArray = jsonObject.getJSONArray("trains")
             for (i in 0 until trainsArray.length()) {
