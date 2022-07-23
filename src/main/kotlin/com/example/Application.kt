@@ -1,21 +1,40 @@
 package com.example
 
+import com.example.manager.Controller
+import com.example.plugins.configureRouting
+import io.ktor.http.*
+import io.ktor.serialization.gson.*
+import io.ktor.server.application.*
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
-import com.example.plugins.*
-import io.ktor.http.*
-import io.ktor.server.application.*
+import io.ktor.server.plugins.contentnegotiation.*
 import io.ktor.server.response.*
 import io.ktor.server.routing.*
+import java.text.DateFormat
 
 fun main(args: Array<String>): Unit = EngineMain.main(args)
 
 @Suppress("unused") // Referenced in application.conf
-@kotlin.jvm.JvmOverloads
+@JvmOverloads
 fun Application.module(testing: Boolean = false) {
-    routing {
-        get("/") {
-            call.respondText("HELLO WORLD!", contentType = ContentType.Text.Plain)
+    configureSerialization()
+    configureRouting()
+}
+
+//fun main() {
+//    val envVar: String = System.getenv("PORT") ?: "8080"
+//    embeddedServer(Netty, port = envVar.toInt(), host = "0.0.0.0") {
+//        configureSerialization()
+//        configureRouting()
+//    }.start(wait = true)
+//}
+
+fun Application.configureSerialization() {
+    install(ContentNegotiation) {
+        gson {
+            setDateFormat(DateFormat.LONG)
+            setPrettyPrinting()
         }
     }
 }
+

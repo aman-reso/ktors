@@ -1,5 +1,6 @@
 package com.example.plugins
 
+import com.example.manager.Controller
 import io.ktor.server.routing.*
 import io.ktor.http.*
 import io.ktor.server.application.*
@@ -12,6 +13,7 @@ fun Application.configureRouting() {
     routing {
         get("/") {
             call.respondText("Hello World!")
+            Controller.start(call)
         }
     }
     routing {
