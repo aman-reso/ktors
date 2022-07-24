@@ -29,14 +29,15 @@ fun Application.configureRouting() {
             if (params.contains("dcode")){
                 dcode= params["dcode"]
             }
+            call.respond("Hello")
 //            if (params.contains("dateLimit")){
 //                dateLimit=params["dateLimit"]?.toInt()?:1
 //            }
 //
-            Controller.start(commandKey,oCode,dcode, dateLimit) {
-                println("response-->$it")
-                call.respond(it)
-            }
+//            Controller.start(commandKey,oCode,dcode, dateLimit) {
+//                println("response-->$it")
+//                call.respond(it)
+//            }
 //            call.respondText("Hello World!")
         }
     }
