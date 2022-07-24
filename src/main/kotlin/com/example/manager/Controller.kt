@@ -44,7 +44,7 @@ object Controller {
                         if (i != j) {
                             val origin: String = popularStations[i]
                             val dest: String = popularStations[j]
-                            CoroutineScope(Dispatchers.IO).launch {
+                            supervisorScope {
                                 val irctcListOfTrains = async { getTrainListFromIrctc.getTrainsFromIrctc(origin, dest, irctcDate, tmDate, doesRun) }
                                 val tmListOfTrains = async { getTrainListFromTM.getTrainsFromTrainMan(origin, dest, tmDate, doesRunIndex) }
                                 val key = "$origin--$dest"
