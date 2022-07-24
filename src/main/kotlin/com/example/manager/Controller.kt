@@ -85,7 +85,7 @@ object Controller {
 
     private suspend fun executeSingleResponse(origin: String, dest: String, irctcDate: String, tmDate: String, doesRun: String, doesRunIndex: Int, callback: suspend (Response) -> Unit) {
         System.out.println("tmDate-->$tmDate")
-        coroutineScope {
+        CoroutineScope(Dispatchers.IO).launch {
             val irctcListOfTrains = async { getTrainListFromIrctc.getTrainsFromIrctc(origin, dest, irctcDate, tmDate, doesRun) }
             val tmListOfTrains = async { getTrainListFromTM.getTrainsFromTrainMan(origin, dest, tmDate, doesRunIndex) }
             val customResponse = CustomResponse()
@@ -99,9 +99,11 @@ object Controller {
             val singleItem = SingleItem(key, trainNotOnTm, trainNotOnIrctc, customResponse.irctcList, customResponse.tmList)
             val items = ArrayList<SingleItem>()
             items.add(singleItem)
+            println(items)
             val response = Response(items, tmDate)
             callback.invoke(response)
         }
+
     }
 
 }
