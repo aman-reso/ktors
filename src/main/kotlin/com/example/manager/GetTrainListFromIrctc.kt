@@ -25,7 +25,7 @@ class GetTrainListFromIrctc {
                         val trainListObject: JSONObject = jsonObject.getJSONObject("trainBtwnStnsList")
                         val doesRunToday: String = trainListObject.getString(doesRun)
                         val trainNumber: String = trainListObject.getString("trainNumber")
-                        val fromStnCode: String =trainListObject.getString("fromStnCode")
+                        val fromStnCode: String = trainListObject.getString("fromStnCode")
                         val toStnCode: String = trainListObject.getString("toStnCode")
                         if (doesRunToday == "Y" && fromStnCode == origin && toStnCode == dest) {
                             trainListUnderIRCTC.add(trainNumber)
@@ -37,7 +37,7 @@ class GetTrainListFromIrctc {
                             val doesRunToday: String = trainList.getJSONObject(i).getString(doesRun)
                             val fromStnCode: String = trainList.getJSONObject(i).getString("fromStnCode")
                             val toStnCode: String = trainList.getJSONObject(i).getString("toStnCode")
-                            if (doesRunToday == "Y" && fromStnCode == origin && toStnCode == dest ) {
+                            if (doesRunToday == "Y" && fromStnCode == origin && toStnCode == dest) {
                                 val trainNumber: String = trainList.getJSONObject(i).getString("trainNumber")
                                 trainListUnderIRCTC.add(trainNumber)
                             }
@@ -49,7 +49,7 @@ class GetTrainListFromIrctc {
         } catch (_: Exception) {
 
         }
-
+        System.out.println("irctcTrains-->$trainListUnderIRCTC")
         return trainListUnderIRCTC
         //trainListUnderIRCTC, origin, dest, tmDate, doesRunIndex;
     }
