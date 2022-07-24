@@ -1,13 +1,12 @@
 package com.example.plugins
 
 import com.example.manager.Controller
+import com.example.setup.MainBaseController
+import com.example.setup.TmApiNetwork
 import io.ktor.server.routing.*
 import io.ktor.server.application.*
 import io.ktor.server.response.*
-import kotlinx.coroutines.CoroutineScope
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.coroutineScope
-import kotlinx.coroutines.launch
+import kotlinx.coroutines.runBlocking
 
 fun Application.configureRouting() {
 
@@ -41,5 +40,12 @@ fun Application.configureRouting() {
         }
     }
     routing {
+        get("/single") {
+            runBlocking {
+                TmApiNetwork().startLogic()
+            }
+            call.respond("hii")
+        }
     }
 }
+

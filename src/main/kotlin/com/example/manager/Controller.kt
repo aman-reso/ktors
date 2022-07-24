@@ -6,11 +6,11 @@ import com.example.utility.CommonUtils
 import kotlinx.coroutines.*
 
 object Controller {
-    private val getPopularStations by lazy { GetPopularStations() }
+    val getPopularStations by lazy { GetPopularStations() }
     private val getTrainListFromIrctc by lazy { GetTrainListFromIrctc() }
     private val getTrainListFromTM by lazy { GetTrainListFromTM() }
     private var requests = ArrayList<Deferred<HashMap<String, CustomResponse>>>()
-    private var maxLimit = 1
+    var maxLimit = 1
     private val compareTrainList by lazy { CompareTrainList() }
     suspend fun start(commandKey: Int, oCode: String?, dCode: String?, dateLimit: Int, callback: suspend (Response) -> Unit) {
         requests = ArrayList()
@@ -44,7 +44,7 @@ object Controller {
                         if (i != j) {
                             val origin: String = popularStations[i]
                             val dest: String = popularStations[j]
-                            supervisorScope {
+                            CoroutineScope(Dispatchers.IO).launch {
                                 val irctcListOfTrains = async { getTrainListFromIrctc.getTrainsFromIrctc(origin, dest, irctcDate, tmDate, doesRun) }
                                 val tmListOfTrains = async { getTrainListFromTM.getTrainsFromTrainMan(origin, dest, tmDate, doesRunIndex) }
                                 val key = "$origin--$dest"

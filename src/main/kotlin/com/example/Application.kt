@@ -2,6 +2,7 @@ package com.example
 
 import com.example.manager.Controller
 import com.example.plugins.configureRouting
+import io.ktor.client.engine.cio.*
 import io.ktor.http.*
 import io.ktor.serialization.gson.*
 import io.ktor.server.application.*
