@@ -6,10 +6,13 @@ import com.example.utility.CommonUtils
 import io.ktor.client.*
 import io.ktor.client.call.*
 import io.ktor.client.engine.cio.*
+import io.ktor.client.plugins.*
 import io.ktor.client.request.*
 
 val ktorHttpClient = HttpClient(CIO) {
-
+    install(HttpTimeout) {
+        requestTimeoutMillis = 60000
+    }
 }
 
 const val BASE_URL_IRCTC = "https://www.irctc.co.in"
