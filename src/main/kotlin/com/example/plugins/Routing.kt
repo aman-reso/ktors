@@ -14,31 +14,30 @@ fun Application.configureRouting() {
     // Starting point for a Ktor app:
     routing {
         get("/") {
-            val params=this.call.parameters
-            var commandKey:Int=2
-            var date:String?=null
-            var oCode:String?=null
-            var dcode:String?=null
-            val dateLimit: Int =1
-            if (params.contains("command")){
-                commandKey= params["command"]?.toInt()?:2
+            try {
+                val params = this.call.parameters
+                var commandKey: Int = 2
+                var date: String? = null
+                var oCode: String? = null
+                var dcode: String? = null
+                val dateLimit: Int = 1
+                if (params.contains("command")) {
+                    commandKey = params["command"]?.toInt() ?: 2
+                }
+                if (params.contains("ocode")) {
+                    oCode = params["ocode"]
+                }
+                if (params.contains("dcode")) {
+                    dcode = params["dcode"]
+                }
+
+                Controller.start(commandKey, oCode, dcode, dateLimit) {
+                    println("response-->$it")
+                    call.respond(it)
+                }
+            } catch (e: Exception) {
+                call.respond("Error-->${e.localizedMessage}")
             }
-            if (params.contains("ocode")){
-                oCode= params["ocode"]
-            }
-            if (params.contains("dcode")){
-                dcode= params["dcode"]
-            }
-            call.respond("Hello")
-//            if (params.contains("dateLimit")){
-//                dateLimit=params["dateLimit"]?.toInt()?:1
-//            }
-//
-//            Controller.start(commandKey,oCode,dcode, dateLimit) {
-//                println("response-->$it")
-//                call.respond(it)
-//            }
-//            call.respondText("Hello World!")
         }
     }
     routing {
