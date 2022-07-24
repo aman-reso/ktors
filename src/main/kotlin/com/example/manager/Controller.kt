@@ -16,6 +16,7 @@ object Controller {
         requests = ArrayList()
         coroutineScope {
             val popularStations = getPopularStations.getPopularStations()
+            System.out.println(popularStations)
             async {
                 maxLimit = dateLimit
                 startGettingResponseFromIrctc(commandKey, oCode, dCode, popularStations, callback)
@@ -31,6 +32,8 @@ object Controller {
             val doesRunIndex: Int = CommonUtils.doesRunWithTM()
             if (commandKey == 1) {
                 if (oCode != null && dCode != null) {
+                    println("ocode-->$oCode")
+                    println("dCode-->$dCode")
                     executeSingleResponse(oCode, dCode, irctcDate, tmDate, doesRun, doesRunIndex, callback)
                 } else {
                     executeSingleResponse("NDLS", "MMCT", irctcDate, tmDate, doesRun, doesRunIndex, callback)
