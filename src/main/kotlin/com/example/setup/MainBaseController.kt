@@ -1,32 +1,23 @@
 package com.example.setup
 
-import com.example.manager.Controller
-import com.example.utility.CommonUtils
+import com.example.compare.CompareTrainList
+import com.example.manager.SingleItem
 import kotlinx.coroutines.*
 
 class MainBaseController {
-    suspend fun controlFunction(fromStnCode: String, toStnCode: String, callback: suspend (List<String>) -> Unit) {
-        for (index in 1..Controller.maxLimit) {
-            val irctcDate: String = CommonUtils.dateFormatForIrctc(index)
-            val tmDate: String = CommonUtils.dateFormatForTrainMan(index)
-            val doesRun: String = CommonUtils.getDay()
-            val doesRunIndex: Int = CommonUtils.doesRunWithTM()
-            try {
-                supervisorScope {
-                    val responseFromIrctc = async { getTrainListFromIRCTC(fromStnCode, toStnCode, irctcDate, doesRun) }.await()
-                    val responseFromTm = async { getTrainListFromTrainman(fromStnCode, toStnCode, tmDate, doesRunIndex) }.await()
-                    val x = responseFromTm + responseFromIrctc
-                    callback.invoke(x)
-                }
-            }catch (e:Exception){
-                callback.invoke(ArrayList())
-            }
-        }
+    private val compareTrainList: CompareTrainList by lazy { CompareTrainList() }
+    suspend fun controlFunction(fromStnCode: String, toStnCode: String, irctcDate: String, tmDate: String, doesRun: String, doesRunIndex: Int) = coroutineScope {
+
+        val responseFromIrctc = async { getTrainListFromIRCTC(fromStnCode, toStnCode, irctcDate, doesRun) }.await()
+        val responseFromTm = async { getTrainListFromTrainman(fromStnCode, toStnCode, tmDate, doesRunIndex) }.await()
+        val key = "$fromStnCode-$toStnCode"
+        val customResponse = compareTrainList.compareListCombine(responseFromIrctc, responseFromTm)
+        return@coroutineScope SingleItem(key, customResponse.tmList!!, customResponse.irctcList!!, responseFromIrctc, responseFromTm)
     }
 }
 
 
 suspend fun main() {
-
+  System.out.println(getStnList().size)
 }
 

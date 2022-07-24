@@ -56,9 +56,6 @@ class CompareTrainList {
     open suspend fun compareListCombine(
         first: ArrayList<String>,
         second: ArrayList<String>,
-        type: String?,
-        origin: String,
-        dest: String
     ): CustomResponse {
         val list = ArrayList<String>()
         first.forEach(Consumer { trainNumber: String ->

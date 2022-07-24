@@ -1,0 +1,5481 @@
+{
+  "list": [
+    {
+      "key": "CSTM-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CSTM-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12811",
+        "12145",
+        "18029"
+      ],
+      "tmTrains": [
+        "12145",
+        "12811",
+        "18029"
+      ]
+    },
+    {
+      "key": "LTT-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15017",
+        "12811",
+        "12336",
+        "11013",
+        "11055",
+        "13202",
+        "12167",
+        "18029",
+        "12163",
+        "22129",
+        "12519",
+        "11071",
+        "12173",
+        "11061",
+        "12145",
+        "12141",
+        "22538",
+        "01027"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11071",
+        "15017",
+        "12811",
+        "12173",
+        "16345",
+        "11013",
+        "11055",
+        "11061",
+        "12619",
+        "18029",
+        "12163",
+        "22129",
+        "12141",
+        "22538",
+        "12519"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18520",
+        "17222",
+        "11013",
+        "12163"
+      ],
+      "tmTrains": [
+        "11013",
+        "12163",
+        "17222",
+        "18520"
+      ]
+    },
+    {
+      "key": "LTT-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18520"
+      ],
+      "tmTrains": [
+        "18520"
+      ]
+    },
+    {
+      "key": "LTT-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12145"
+      ],
+      "tmTrains": [
+        "12145"
+      ]
+    },
+    {
+      "key": "LTT-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12145"
+      ],
+      "tmTrains": [
+        "12145"
+      ]
+    },
+    {
+      "key": "LTT-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11061"
+      ],
+      "tmTrains": [
+        "11061"
+      ]
+    },
+    {
+      "key": "LTT-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11061"
+      ],
+      "tmTrains": [
+        "11061"
+      ]
+    },
+    {
+      "key": "LTT-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12336",
+        "13202"
+      ],
+      "tmTrains": [
+        "12336",
+        "13202"
+      ]
+    },
+    {
+      "key": "LTT-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12336"
+      ],
+      "tmTrains": [
+        "12336"
+      ]
+    },
+    {
+      "key": "LTT-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "15102"
+      ],
+      "irctcTrains": [
+        "20103",
+        "12173",
+        "12143",
+        "22538"
+      ],
+      "tmTrains": [
+        "12173",
+        "12143",
+        "15102",
+        "22538",
+        "20103"
+      ]
+    },
+    {
+      "key": "LTT-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "LTT-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PA-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12812",
+        "12152",
+        "18030"
+      ],
+      "tmTrains": [
+        "12152",
+        "12812",
+        "18030"
+      ]
+    },
+    {
+      "key": "NGP-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12106",
+        "12810",
+        "12140",
+        "12860"
+      ],
+      "tmTrains": [
+        "12106",
+        "12140",
+        "12860",
+        "12810"
+      ]
+    },
+    {
+      "key": "NGP-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12106",
+        "12810",
+        "12812",
+        "12152",
+        "12140",
+        "12860",
+        "18030",
+        "20822"
+      ],
+      "tmTrains": [
+        "12812",
+        "12140",
+        "12106",
+        "12152",
+        "20822",
+        "12860",
+        "12810",
+        "18030"
+      ]
+    },
+    {
+      "key": "NGP-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12106",
+        "12812",
+        "12140",
+        "18030"
+      ],
+      "tmTrains": [
+        "12106",
+        "12140",
+        "12812",
+        "18030"
+      ]
+    },
+    {
+      "key": "NGP-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12808",
+        "20806",
+        "12804"
+      ],
+      "tmTrains": [
+        "12804",
+        "12808",
+        "20806"
+      ]
+    },
+    {
+      "key": "NGP-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "20814"
+      ],
+      "tmTrains": [
+        "20814"
+      ]
+    },
+    {
+      "key": "NGP-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12844",
+        "20814"
+      ],
+      "tmTrains": [
+        "12844",
+        "20814"
+      ]
+    },
+    {
+      "key": "NGP-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12129",
+        "12833",
+        "12221",
+        "12859",
+        "12809",
+        "22893"
+      ],
+      "tmTrains": [
+        "12859",
+        "12809",
+        "12833",
+        "12221",
+        "12129",
+        "22893"
+      ]
+    },
+    {
+      "key": "NGP-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "16093"
+      ],
+      "tmTrains": [
+        "16093"
+      ]
+    },
+    {
+      "key": "NGP-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "NGP-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12625",
+        "12649",
+        "12621",
+        "12405",
+        "12723",
+        "12721",
+        "22691",
+        "12807",
+        "16317",
+        "12615",
+        "12433",
+        "20805",
+        "18237"
+      ],
+      "tmTrains": [
+        "12433",
+        "12625",
+        "12649",
+        "22691",
+        "12807",
+        "12723",
+        "20805",
+        "12405",
+        "12615",
+        "12621",
+        "18237",
+        "12721",
+        "16317"
+      ]
+    },
+    {
+      "key": "DR-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12105",
+        "12139",
+        "12859",
+        "12809",
+        "12869"
+      ],
+      "tmTrains": [
+        "12105",
+        "12809",
+        "12139",
+        "12859",
+        "12869"
+      ]
+    },
+    {
+      "key": "DR-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12115",
+        "02101",
+        "12111",
+        "12137",
+        "17031",
+        "17057",
+        "12139",
+        "12859",
+        "11301",
+        "12809",
+        "12322",
+        "22177",
+        "17411",
+        "12071",
+        "11139",
+        "22157",
+        "11401",
+        "22159",
+        "11019",
+        "11057",
+        "17617",
+        "12105",
+        "12109",
+        "11007",
+        "22107",
+        "12188",
+        "11005",
+        "12869",
+        "11029",
+        "11027",
+        "16331",
+        "11009",
+        "22105",
+        "07198"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12115",
+        "02101",
+        "12111",
+        "17057",
+        "12139",
+        "12051",
+        "12809",
+        "22177",
+        "17411",
+        "12071",
+        "11139",
+        "10111",
+        "17318",
+        "11401",
+        "22159",
+        "11019",
+        "11057",
+        "12127",
+        "17617",
+        "12105",
+        "11007",
+        "22107",
+        "10103",
+        "11003",
+        "11029",
+        "11027",
+        "16331",
+        "11009",
+        "22105",
+        "07198"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12115",
+        "17031",
+        "11301",
+        "11139",
+        "22157",
+        "22159",
+        "11019",
+        "16331"
+      ],
+      "tmTrains": [
+        "12115",
+        "22157",
+        "11139",
+        "16331",
+        "22159",
+        "11019",
+        "11301",
+        "17031"
+      ]
+    },
+    {
+      "key": "DR-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11019"
+      ],
+      "tmTrains": [
+        "11019"
+      ]
+    },
+    {
+      "key": "DR-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11019"
+      ],
+      "tmTrains": [
+        "11019"
+      ]
+    },
+    {
+      "key": "DR-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12322"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "12322"
+      ]
+    },
+    {
+      "key": "DR-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12859",
+        "12809",
+        "12869",
+        "12322"
+      ],
+      "tmTrains": [
+        "12809",
+        "12322",
+        "12869",
+        "12859"
+      ]
+    },
+    {
+      "key": "DR-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DR-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12137",
+        "11057"
+      ],
+      "tmTrains": [
+        "12137",
+        "11057"
+      ]
+    },
+    {
+      "key": "KYN-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11094"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15018",
+        "12812",
+        "12152",
+        "11014",
+        "01052",
+        "12168",
+        "13201",
+        "12166",
+        "12164",
+        "12162",
+        "11080",
+        "11072",
+        "14314",
+        "18030",
+        "11060",
+        "11062",
+        "12142",
+        "22537",
+        "01026"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12105",
+        "12811",
+        "12145",
+        "12139",
+        "12859",
+        "12809",
+        "12869",
+        "18029"
+      ],
+      "tmTrains": [
+        "12105",
+        "12145",
+        "12809",
+        "12139",
+        "12859",
+        "12811",
+        "18029",
+        "12869"
+      ]
+    },
+    {
+      "key": "KYN-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "02102",
+        "12116",
+        "12112",
+        "12810",
+        "11010",
+        "12138",
+        "11030",
+        "17058",
+        "17032",
+        "11302",
+        "12321",
+        "12702",
+        "17412",
+        "12072",
+        "22178",
+        "12110",
+        "22158",
+        "11402",
+        "11058",
+        "22160",
+        "12106",
+        "17618",
+        "11140",
+        "11020",
+        "12187",
+        "11022",
+        "11028",
+        "12140",
+        "16332",
+        "12860",
+        "22144",
+        "07197",
+        "22106",
+        "11008"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "02102",
+        "12116",
+        "15018",
+        "12112",
+        "12812",
+        "17412",
+        "11014",
+        "22178",
+        "11058",
+        "17611",
+        "17618",
+        "11140",
+        "13201",
+        "12166",
+        "12164",
+        "12162",
+        "16332",
+        "22144",
+        "07197",
+        "11008",
+        "11072",
+        "11030",
+        "17058",
+        "12072",
+        "14314",
+        "18030",
+        "11402",
+        "22160",
+        "11060",
+        "12106",
+        "11062",
+        "11020",
+        "12142",
+        "11028",
+        "12140",
+        "22537",
+        "22106"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "82654"
+      ],
+      "irctcTrains": [
+        "12115",
+        "17031",
+        "11301",
+        "11013",
+        "11139",
+        "22157",
+        "12701",
+        "22159",
+        "11019",
+        "16613",
+        "12163",
+        "16331"
+      ],
+      "tmTrains": [
+        "12115",
+        "12701",
+        "22157",
+        "11013",
+        "11139",
+        "22159",
+        "16331",
+        "12163",
+        "11019",
+        "11301",
+        "82654",
+        "16613",
+        "17031"
+      ]
+    },
+    {
+      "key": "KYN-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11019"
+      ],
+      "tmTrains": [
+        "11019"
+      ]
+    },
+    {
+      "key": "KYN-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12145",
+        "11019"
+      ],
+      "tmTrains": [
+        "12145",
+        "11019"
+      ]
+    },
+    {
+      "key": "KYN-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12145"
+      ],
+      "tmTrains": [
+        "12145"
+      ]
+    },
+    {
+      "key": "KYN-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11061"
+      ],
+      "tmTrains": [
+        "11061"
+      ]
+    },
+    {
+      "key": "KYN-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12322"
+      ],
+      "tmTrains": [
+        "12322"
+      ]
+    },
+    {
+      "key": "KYN-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11061"
+      ],
+      "tmTrains": [
+        "11061"
+      ]
+    },
+    {
+      "key": "KYN-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12336",
+        "13202"
+      ],
+      "tmTrains": [
+        "12336",
+        "13202"
+      ]
+    },
+    {
+      "key": "KYN-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12336"
+      ],
+      "tmTrains": [
+        "12336"
+      ]
+    },
+    {
+      "key": "KYN-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12859",
+        "12809",
+        "12869",
+        "12322"
+      ],
+      "tmTrains": [
+        "12809",
+        "12859",
+        "12869",
+        "12322"
+      ]
+    },
+    {
+      "key": "KYN-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "15102"
+      ],
+      "irctcTrains": [
+        "12173",
+        "22538",
+        "12534"
+      ],
+      "tmTrains": [
+        "12534",
+        "12173",
+        "15102",
+        "22538"
+      ]
+    },
+    {
+      "key": "KYN-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "KYN-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "22221",
+        "12617",
+        "12137",
+        "11057"
+      ],
+      "tmTrains": [
+        "22221",
+        "12617",
+        "12137",
+        "11057"
+      ]
+    },
+    {
+      "key": "TNA-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15018",
+        "11072",
+        "12812",
+        "16346",
+        "12620",
+        "11100",
+        "11014",
+        "14314",
+        "18030",
+        "11060",
+        "11062",
+        "13201",
+        "12166",
+        "12164",
+        "12162",
+        "12142",
+        "22537"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12105",
+        "12811",
+        "12139",
+        "12809",
+        "18029"
+      ],
+      "tmTrains": [
+        "12105",
+        "12809",
+        "12139",
+        "12811",
+        "18029"
+      ]
+    },
+    {
+      "key": "TNA-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "02102",
+        "12116",
+        "12112",
+        "11030",
+        "17058",
+        "17412",
+        "12072",
+        "22178",
+        "12052",
+        "10112",
+        "17317",
+        "11402",
+        "11058",
+        "22160",
+        "12128",
+        "22120",
+        "12106",
+        "17618",
+        "11140",
+        "11020",
+        "10104",
+        "11004",
+        "11028",
+        "12140",
+        "16332",
+        "22144",
+        "07197",
+        "22106",
+        "11008"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12115",
+        "02101",
+        "15017",
+        "12111",
+        "12811",
+        "12809",
+        "22177",
+        "17411",
+        "11013",
+        "11055",
+        "11019",
+        "11057",
+        "11041",
+        "17617",
+        "11007",
+        "18029",
+        "12163",
+        "22129",
+        "16331",
+        "12519",
+        "11009",
+        "07198",
+        "11071",
+        "17057",
+        "12173",
+        "12139",
+        "12071",
+        "11139",
+        "11401",
+        "22159",
+        "11061",
+        "12105",
+        "22107",
+        "11029",
+        "12141",
+        "22538",
+        "22105"
+      ],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12115",
+        "11013",
+        "11139",
+        "22159",
+        "11019",
+        "12163",
+        "16331"
+      ],
+      "tmTrains": [
+        "12115",
+        "11013",
+        "11139",
+        "16331",
+        "22159",
+        "12163",
+        "11019"
+      ]
+    },
+    {
+      "key": "TNA-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11019"
+      ],
+      "tmTrains": [
+        "11019"
+      ]
+    },
+    {
+      "key": "TNA-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11019"
+      ],
+      "tmTrains": [
+        "11019"
+      ]
+    },
+    {
+      "key": "TNA-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11061"
+      ],
+      "tmTrains": [
+        "11061"
+      ]
+    },
+    {
+      "key": "TNA-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11061"
+      ],
+      "tmTrains": [
+        "11061"
+      ]
+    },
+    {
+      "key": "TNA-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12809"
+      ],
+      "tmTrains": [
+        "12809"
+      ]
+    },
+    {
+      "key": "TNA-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12173",
+        "22538"
+      ],
+      "tmTrains": [
+        "12173",
+        "22538"
+      ]
+    },
+    {
+      "key": "TNA-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "TNA-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11057"
+      ],
+      "tmTrains": [
+        "11057"
+      ]
+    },
+    {
+      "key": "SUR-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "11044"
+      ],
+      "irctcTrains": [
+        "17221",
+        "11014",
+        "12164",
+        "18519"
+      ],
+      "tmTrains": [
+        "11044",
+        "18519",
+        "12164",
+        "17221",
+        "11014"
+      ]
+    },
+    {
+      "key": "SUR-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12116",
+        "17032",
+        "11302",
+        "12702",
+        "22158",
+        "22160",
+        "11140",
+        "11020",
+        "16332"
+      ],
+      "tmTrains": [
+        "12116",
+        "22158",
+        "12702",
+        "11140",
+        "22160",
+        "16332",
+        "11302",
+        "11020",
+        "17032"
+      ]
+    },
+    {
+      "key": "SUR-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "11044",
+        "17018"
+      ],
+      "irctcTrains": [
+        "12116",
+        "17032",
+        "11302",
+        "12702",
+        "11014",
+        "22158",
+        "22160",
+        "11140",
+        "11020",
+        "12164",
+        "16332"
+      ],
+      "tmTrains": [
+        "12116",
+        "22158",
+        "11044",
+        "17018",
+        "12702",
+        "11140",
+        "12164",
+        "22160",
+        "16332",
+        "11302",
+        "11014",
+        "11020",
+        "17032"
+      ]
+    },
+    {
+      "key": "SUR-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "11044"
+      ],
+      "irctcTrains": [
+        "12116",
+        "11014",
+        "22160",
+        "11140",
+        "11020",
+        "12164",
+        "16332"
+      ],
+      "tmTrains": [
+        "12116",
+        "11044",
+        "11140",
+        "12164",
+        "22160",
+        "16332",
+        "11014",
+        "11020"
+      ]
+    },
+    {
+      "key": "SUR-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18520",
+        "11019"
+      ],
+      "tmTrains": [
+        "11019",
+        "18520"
+      ]
+    },
+    {
+      "key": "SUR-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11019"
+      ],
+      "tmTrains": [
+        "11019"
+      ]
+    },
+    {
+      "key": "SUR-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SUR-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12627"
+      ],
+      "tmTrains": [
+        "12627"
+      ]
+    },
+    {
+      "key": "VSKP-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "22847",
+        "18519"
+      ],
+      "tmTrains": [
+        "22847",
+        "18519"
+      ]
+    },
+    {
+      "key": "VSKP-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12807",
+        "22847",
+        "20805"
+      ],
+      "tmTrains": [
+        "12807",
+        "20805",
+        "22847"
+      ]
+    },
+    {
+      "key": "VSKP-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11020"
+      ],
+      "tmTrains": [
+        "11020"
+      ]
+    },
+    {
+      "key": "VSKP-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "22847",
+        "11020"
+      ],
+      "tmTrains": [
+        "22847",
+        "11020"
+      ]
+    },
+    {
+      "key": "VSKP-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11020"
+      ],
+      "tmTrains": [
+        "11020"
+      ]
+    },
+    {
+      "key": "VSKP-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18519",
+        "11020"
+      ],
+      "tmTrains": [
+        "11020",
+        "18519"
+      ]
+    },
+    {
+      "key": "VSKP-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18507",
+        "18646",
+        "07699"
+      ],
+      "irctcTrains": [
+        "18464",
+        "05795",
+        "12666",
+        "11019",
+        "20816",
+        "12253",
+        "22880",
+        "12513",
+        "22606",
+        "22641",
+        "12864",
+        "17016",
+        "12704",
+        "22808",
+        "12842",
+        "12840",
+        "22820",
+        "18046"
+      ],
+      "tmTrains": [
+        "22880",
+        "22641",
+        "12842",
+        "18507",
+        "22808",
+        "12513",
+        "12666",
+        "18046",
+        "18646",
+        "20816",
+        "07699",
+        "12704",
+        "22606",
+        "22820",
+        "12253",
+        "12840",
+        "18464",
+        "11019",
+        "12864",
+        "17016"
+      ]
+    },
+    {
+      "key": "VSKP-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18402"
+      ],
+      "irctcTrains": [
+        "22884",
+        "17480"
+      ],
+      "tmTrains": [
+        "22884",
+        "18402",
+        "17480"
+      ]
+    },
+    {
+      "key": "VSKP-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13352"
+      ],
+      "tmTrains": [
+        "13352"
+      ]
+    },
+    {
+      "key": "VSKP-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12253"
+      ],
+      "tmTrains": [
+        "12253"
+      ]
+    },
+    {
+      "key": "VSKP-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18646"
+      ],
+      "irctcTrains": [
+        "12666",
+        "12840",
+        "12704",
+        "12864"
+      ],
+      "tmTrains": [
+        "12666",
+        "12840",
+        "12704",
+        "12864",
+        "18646"
+      ]
+    },
+    {
+      "key": "VSKP-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "VSKP-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18507"
+      ],
+      "irctcTrains": [
+        "12807",
+        "20805"
+      ],
+      "tmTrains": [
+        "12807",
+        "20805",
+        "18507"
+      ]
+    },
+    {
+      "key": "BBS-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "22827"
+      ],
+      "tmTrains": [
+        "22827"
+      ]
+    },
+    {
+      "key": "BBS-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11020"
+      ],
+      "tmTrains": [
+        "11020"
+      ]
+    },
+    {
+      "key": "BBS-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11020"
+      ],
+      "tmTrains": [
+        "11020"
+      ]
+    },
+    {
+      "key": "BBS-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11020"
+      ],
+      "tmTrains": [
+        "11020"
+      ]
+    },
+    {
+      "key": "BBS-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11020"
+      ],
+      "tmTrains": [
+        "11020"
+      ]
+    },
+    {
+      "key": "BBS-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18645"
+      ],
+      "irctcTrains": [
+        "18463",
+        "22871",
+        "12863",
+        "17015",
+        "12839",
+        "22855",
+        "22502",
+        "12703",
+        "12504",
+        "12841",
+        "02252",
+        "11020",
+        "12845",
+        "18047",
+        "18045",
+        "22819"
+      ],
+      "tmTrains": [
+        "12841",
+        "22855",
+        "22871",
+        "12504",
+        "12845",
+        "11020",
+        "22819",
+        "12703",
+        "12863",
+        "22502",
+        "18463",
+        "18047",
+        "17015",
+        "18645",
+        "12839",
+        "18045"
+      ]
+    },
+    {
+      "key": "BBS-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18413",
+        "02891",
+        "18125"
+      ],
+      "irctcTrains": [
+        "18415",
+        "12816",
+        "12837",
+        "12993",
+        "18451",
+        "12821",
+        "18426",
+        "12802",
+        "18409",
+        "18478",
+        "18303",
+        "20862",
+        "18420"
+      ],
+      "tmTrains": [
+        "12821",
+        "12816",
+        "18303",
+        "18413",
+        "12837",
+        "18426",
+        "02891",
+        "12993",
+        "20862",
+        "18415",
+        "12802",
+        "18451",
+        "18125",
+        "18420",
+        "18478",
+        "18409"
+      ]
+    },
+    {
+      "key": "BBS-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12253"
+      ],
+      "tmTrains": [
+        "12253"
+      ]
+    },
+    {
+      "key": "BBS-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12278",
+        "18646"
+      ],
+      "irctcTrains": [
+        "12666",
+        "12838",
+        "12704",
+        "12074",
+        "12840",
+        "12864"
+      ],
+      "tmTrains": [
+        "12838",
+        "12074",
+        "12278",
+        "12864",
+        "12704",
+        "12840",
+        "12666",
+        "18646"
+      ]
+    },
+    {
+      "key": "BBS-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "22811",
+        "12801",
+        "12875",
+        "12819"
+      ],
+      "tmTrains": [
+        "22811",
+        "12819",
+        "12801",
+        "12875"
+      ]
+    },
+    {
+      "key": "BBS-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BBS-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18507"
+      ],
+      "irctcTrains": [
+        "18477"
+      ],
+      "tmTrains": [
+        "18507",
+        "18477"
+      ]
+    },
+    {
+      "key": "PURI-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "22827"
+      ],
+      "tmTrains": [
+        "22827"
+      ]
+    },
+    {
+      "key": "PURI-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18401"
+      ],
+      "irctcTrains": [
+        "20819",
+        "17479",
+        "22859"
+      ],
+      "tmTrains": [
+        "22859",
+        "20819",
+        "18401",
+        "17479"
+      ]
+    },
+    {
+      "key": "PURI-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12278",
+        "18414",
+        "02892"
+      ],
+      "irctcTrains": [
+        "18416",
+        "12838",
+        "18126",
+        "12875",
+        "18410",
+        "18452",
+        "18425",
+        "22827",
+        "12822",
+        "12801",
+        "18477",
+        "18304",
+        "22910",
+        "12888"
+      ],
+      "tmTrains": [
+        "12278",
+        "12801",
+        "12838",
+        "18477",
+        "22827",
+        "18452",
+        "12875",
+        "12822",
+        "18425",
+        "12888",
+        "18410",
+        "18414",
+        "18416",
+        "18304",
+        "22910",
+        "18126",
+        "02892"
+      ]
+    },
+    {
+      "key": "PURI-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12278"
+      ],
+      "irctcTrains": [
+        "12838"
+      ],
+      "tmTrains": [
+        "12838",
+        "12278"
+      ]
+    },
+    {
+      "key": "PURI-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12801",
+        "12875"
+      ],
+      "tmTrains": [
+        "12801",
+        "12875"
+      ]
+    },
+    {
+      "key": "PURI-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PURI-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18477"
+      ],
+      "tmTrains": [
+        "18477"
+      ]
+    },
+    {
+      "key": "DBG-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11062"
+      ],
+      "tmTrains": [
+        "11062"
+      ]
+    },
+    {
+      "key": "DBG-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11062"
+      ],
+      "tmTrains": [
+        "11062"
+      ]
+    },
+    {
+      "key": "DBG-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11062"
+      ],
+      "tmTrains": [
+        "11062"
+      ]
+    },
+    {
+      "key": "DBG-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18106",
+        "17006"
+      ],
+      "tmTrains": [
+        "18106",
+        "17006"
+      ]
+    },
+    {
+      "key": "DBG-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "14649",
+        "12561",
+        "04651",
+        "11062",
+        "15549",
+        "02569",
+        "12565"
+      ],
+      "tmTrains": [
+        "12565",
+        "02569",
+        "12561",
+        "14649",
+        "15549",
+        "04651",
+        "11062"
+      ]
+    },
+    {
+      "key": "DBG-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "15527"
+      ],
+      "irctcTrains": [
+        "15549"
+      ],
+      "tmTrains": [
+        "15549",
+        "15527"
+      ]
+    },
+    {
+      "key": "DBG-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13032",
+        "15554"
+      ],
+      "tmTrains": [
+        "15554",
+        "13032"
+      ]
+    },
+    {
+      "key": "DBG-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13044",
+        "13032"
+      ],
+      "tmTrains": [
+        "13044",
+        "13032"
+      ]
+    },
+    {
+      "key": "DBG-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13186"
+      ],
+      "tmTrains": [
+        "13186"
+      ]
+    },
+    {
+      "key": "DBG-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12561",
+        "02569",
+        "12565"
+      ],
+      "tmTrains": [
+        "12561",
+        "12565",
+        "02569"
+      ]
+    },
+    {
+      "key": "DBG-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DBG-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GYA-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12321"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "12321"
+      ]
+    },
+    {
+      "key": "DHN-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12321"
+      ],
+      "tmTrains": [
+        "12321"
+      ]
+    },
+    {
+      "key": "DHN-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13351"
+      ],
+      "tmTrains": [
+        "13351"
+      ]
+    },
+    {
+      "key": "DHN-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18105"
+      ],
+      "tmTrains": [
+        "18105"
+      ]
+    },
+    {
+      "key": "DHN-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15027"
+      ],
+      "tmTrains": [
+        "15027"
+      ]
+    },
+    {
+      "key": "DHN-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18622",
+        "13329"
+      ],
+      "tmTrains": [
+        "13329",
+        "18622"
+      ]
+    },
+    {
+      "key": "DHN-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13403"
+      ],
+      "tmTrains": [
+        "13403"
+      ]
+    },
+    {
+      "key": "DHN-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12354",
+        "12176",
+        "12302",
+        "12322",
+        "11447",
+        "12308",
+        "13010",
+        "22388",
+        "12312",
+        "12340"
+      ],
+      "tmTrains": [
+        "12302",
+        "12308",
+        "12340",
+        "22388",
+        "12176",
+        "12354",
+        "12312",
+        "11447",
+        "13010",
+        "12322"
+      ]
+    },
+    {
+      "key": "DHN-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12314",
+        "12988"
+      ],
+      "tmTrains": [
+        "12314",
+        "12988"
+      ]
+    },
+    {
+      "key": "DHN-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12249"
+      ],
+      "irctcTrains": [
+        "12259",
+        "12311",
+        "12987",
+        "12313",
+        "12307",
+        "12381"
+      ],
+      "tmTrains": [
+        "12249",
+        "12259",
+        "12313",
+        "12381",
+        "12987",
+        "12311",
+        "12307"
+      ]
+    },
+    {
+      "key": "DHN-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "DHN-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12175"
+      ],
+      "tmTrains": [
+        "12175"
+      ]
+    },
+    {
+      "key": "MFP-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11062"
+      ],
+      "tmTrains": [
+        "11062"
+      ]
+    },
+    {
+      "key": "MFP-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "11062"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "11062"
+      ]
+    },
+    {
+      "key": "MFP-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11062"
+      ],
+      "tmTrains": [
+        "11062"
+      ]
+    },
+    {
+      "key": "MFP-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "15560"
+      ],
+      "irctcTrains": [
+        "14650",
+        "11061",
+        "15550",
+        "19165",
+        "09465",
+        "12566",
+        "12562",
+        "02570"
+      ],
+      "tmTrains": [
+        "15550",
+        "12562",
+        "19165",
+        "14650",
+        "12566",
+        "15560",
+        "02570",
+        "09465",
+        "11061"
+      ]
+    },
+    {
+      "key": "MFP-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15028"
+      ],
+      "tmTrains": [
+        "15028"
+      ]
+    },
+    {
+      "key": "MFP-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15549"
+      ],
+      "tmTrains": [
+        "15549"
+      ]
+    },
+    {
+      "key": "MFP-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "09451",
+        "05551",
+        "13420"
+      ],
+      "tmTrains": [
+        "09451",
+        "13420"
+      ]
+    },
+    {
+      "key": "MFP-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13020",
+        "03044",
+        "13022"
+      ],
+      "tmTrains": [
+        "03044",
+        "13020",
+        "13022"
+      ]
+    },
+    {
+      "key": "MFP-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13124"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "13124"
+      ]
+    },
+    {
+      "key": "MFP-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "19040"
+      ],
+      "irctcTrains": [
+        "12561",
+        "14005",
+        "02569",
+        "02563",
+        "19054",
+        "19038",
+        "15707",
+        "11124",
+        "12553",
+        "12565"
+      ],
+      "tmTrains": [
+        "12561",
+        "02569",
+        "02563",
+        "12565",
+        "11124",
+        "12553",
+        "19054",
+        "15707",
+        "19038",
+        "14005",
+        "19040"
+      ]
+    },
+    {
+      "key": "MFP-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "MFP-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "19054",
+        "11124"
+      ],
+      "tmTrains": [
+        "19054",
+        "11124"
+      ]
+    },
+    {
+      "key": "PNBE-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12335",
+        "13201"
+      ],
+      "tmTrains": [
+        "12335",
+        "13201"
+      ]
+    },
+    {
+      "key": "PNBE-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12335",
+        "13201"
+      ],
+      "tmTrains": [
+        "12335",
+        "13201"
+      ]
+    },
+    {
+      "key": "PNBE-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12335",
+        "13201"
+      ],
+      "tmTrains": [
+        "12335",
+        "13201"
+      ]
+    },
+    {
+      "key": "PNBE-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "08440"
+      ],
+      "tmTrains": [
+        "08440"
+      ]
+    },
+    {
+      "key": "PNBE-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "08440"
+      ],
+      "tmTrains": [
+        "08440"
+      ]
+    },
+    {
+      "key": "PNBE-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12546",
+        "15528"
+      ],
+      "irctcTrains": [
+        "12436",
+        "15550",
+        "12578"
+      ],
+      "tmTrains": [
+        "15550",
+        "12546",
+        "12436",
+        "12578",
+        "15528"
+      ]
+    },
+    {
+      "key": "PNBE-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18621",
+        "13330"
+      ],
+      "tmTrains": [
+        "13330",
+        "18621"
+      ]
+    },
+    {
+      "key": "PNBE-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15550"
+      ],
+      "tmTrains": [
+        "15550"
+      ]
+    },
+    {
+      "key": "PNBE-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13120"
+      ],
+      "irctcTrains": [
+        "15657",
+        "13430",
+        "22947",
+        "12368",
+        "03236",
+        "13402",
+        "13424",
+        "13414"
+      ],
+      "tmTrains": [
+        "13402",
+        "15657",
+        "13430",
+        "13414",
+        "22947",
+        "12368",
+        "13424",
+        "13120"
+      ]
+    },
+    {
+      "key": "PNBE-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13050"
+      ],
+      "irctcTrains": [
+        "12334",
+        "12304",
+        "13006",
+        "12328",
+        "12274"
+      ],
+      "tmTrains": [
+        "12334",
+        "13006",
+        "12274",
+        "12328",
+        "12304",
+        "13050"
+      ]
+    },
+    {
+      "key": "PNBE-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13120"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "13120"
+      ]
+    },
+    {
+      "key": "PNBE-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13007",
+        "11105",
+        "15955"
+      ],
+      "irctcTrains": [
+        "13237",
+        "12305",
+        "15483",
+        "12393",
+        "12309",
+        "15658",
+        "12367",
+        "15634",
+        "20801",
+        "13413"
+      ],
+      "tmTrains": [
+        "12305",
+        "13007",
+        "12309",
+        "12393",
+        "12367",
+        "15658",
+        "11105",
+        "20801",
+        "15955",
+        "15483",
+        "15634",
+        "13237",
+        "13413"
+      ]
+    },
+    {
+      "key": "PNBE-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "PNBE-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12335"
+      ],
+      "tmTrains": [
+        "12335"
+      ]
+    },
+    {
+      "key": "BGP-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12335"
+      ],
+      "tmTrains": [
+        "12335"
+      ]
+    },
+    {
+      "key": "BGP-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12335"
+      ],
+      "tmTrains": [
+        "12335"
+      ]
+    },
+    {
+      "key": "BGP-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15553",
+        "13031"
+      ],
+      "tmTrains": [
+        "15553",
+        "13031"
+      ]
+    },
+    {
+      "key": "BGP-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18604",
+        "13404"
+      ],
+      "tmTrains": [
+        "18604",
+        "13404"
+      ]
+    },
+    {
+      "key": "BGP-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13419",
+        "05552"
+      ],
+      "tmTrains": [
+        "13419"
+      ]
+    },
+    {
+      "key": "BGP-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "15955",
+        "13133"
+      ],
+      "irctcTrains": [
+        "15658",
+        "12335",
+        "12367",
+        "13483",
+        "03235",
+        "13401",
+        "13415"
+      ],
+      "tmTrains": [
+        "13415",
+        "13483",
+        "12335",
+        "12367",
+        "15658",
+        "15955",
+        "13401",
+        "13133"
+      ]
+    },
+    {
+      "key": "BGP-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13032",
+        "13016",
+        "13024",
+        "13072"
+      ],
+      "tmTrains": [
+        "13072",
+        "13024",
+        "13016",
+        "13032"
+      ]
+    },
+    {
+      "key": "BGP-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13120"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "13120"
+      ]
+    },
+    {
+      "key": "BGP-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "15955"
+      ],
+      "irctcTrains": [
+        "15658",
+        "12367",
+        "13483"
+      ],
+      "tmTrains": [
+        "12367",
+        "15658",
+        "15955",
+        "13483"
+      ]
+    },
+    {
+      "key": "BGP-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "BGP-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12810",
+        "12834",
+        "12130",
+        "12860"
+      ],
+      "tmTrains": [
+        "12860",
+        "12130",
+        "12810",
+        "12834"
+      ]
+    },
+    {
+      "key": "HWH-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12321",
+        "12810",
+        "12860"
+      ],
+      "tmTrains": [
+        "12860",
+        "12810",
+        "12321"
+      ]
+    },
+    {
+      "key": "HWH-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12321",
+        "12810",
+        "12860"
+      ],
+      "tmTrains": [
+        "12860",
+        "12810",
+        "12321"
+      ]
+    },
+    {
+      "key": "HWH-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18645"
+      ],
+      "irctcTrains": [
+        "12663",
+        "12839",
+        "12867",
+        "12703",
+        "12863"
+      ],
+      "tmTrains": [
+        "12663",
+        "12863",
+        "12867",
+        "12839",
+        "12703",
+        "18645"
+      ]
+    },
+    {
+      "key": "HWH-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18645"
+      ],
+      "irctcTrains": [
+        "12663",
+        "12839",
+        "12837",
+        "12703",
+        "12073",
+        "12245",
+        "12867",
+        "12863"
+      ],
+      "tmTrains": [
+        "12867",
+        "12863",
+        "12839",
+        "12837",
+        "12245",
+        "12073",
+        "12663",
+        "12703",
+        "18645"
+      ]
+    },
+    {
+      "key": "HWH-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12837"
+      ],
+      "tmTrains": [
+        "12837"
+      ]
+    },
+    {
+      "key": "HWH-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13031"
+      ],
+      "tmTrains": [
+        "13031"
+      ]
+    },
+    {
+      "key": "HWH-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12249"
+      ],
+      "irctcTrains": [
+        "12339",
+        "12175",
+        "12321",
+        "13009",
+        "11448",
+        "12307",
+        "22387",
+        "12311",
+        "12381"
+      ],
+      "tmTrains": [
+        "12249",
+        "12381",
+        "12339",
+        "12311",
+        "12307",
+        "12321",
+        "12175",
+        "22387",
+        "11448",
+        "13009"
+      ]
+    },
+    {
+      "key": "HWH-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13019",
+        "03043",
+        "13021"
+      ],
+      "tmTrains": [
+        "13019",
+        "03043",
+        "13021"
+      ]
+    },
+    {
+      "key": "HWH-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13007",
+        "13049"
+      ],
+      "irctcTrains": [
+        "12333",
+        "12369",
+        "12305",
+        "13005"
+      ],
+      "tmTrains": [
+        "12305",
+        "12333",
+        "12369",
+        "13005",
+        "13007",
+        "13049"
+      ]
+    },
+    {
+      "key": "HWH-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13023",
+        "13015",
+        "13031",
+        "13071"
+      ],
+      "tmTrains": [
+        "13071",
+        "13023",
+        "13015",
+        "13031"
+      ]
+    },
+    {
+      "key": "HWH-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "12249",
+        "13007"
+      ],
+      "irctcTrains": [
+        "12311",
+        "12305",
+        "12307",
+        "12381"
+      ],
+      "tmTrains": [
+        "12249",
+        "12305",
+        "12311",
+        "12307",
+        "12381",
+        "13007"
+      ]
+    },
+    {
+      "key": "HWH-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "HWH-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12175"
+      ],
+      "tmTrains": [
+        "12175"
+      ]
+    },
+    {
+      "key": "SDAH-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "13185"
+      ],
+      "tmTrains": [
+        "13185"
+      ]
+    },
+    {
+      "key": "SDAH-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12259",
+        "12987",
+        "12313"
+      ],
+      "tmTrains": [
+        "12259",
+        "12313",
+        "12987"
+      ]
+    },
+    {
+      "key": "SDAH-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13123"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "13123"
+      ]
+    },
+    {
+      "key": "SDAH-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13133"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "13133"
+      ]
+    },
+    {
+      "key": "SDAH-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "13133"
+      ],
+      "irctcTrains": [],
+      "tmTrains": [
+        "13133"
+      ]
+    },
+    {
+      "key": "SDAH-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12259",
+        "12987",
+        "12313"
+      ],
+      "tmTrains": [
+        "12259",
+        "12313",
+        "12987"
+      ]
+    },
+    {
+      "key": "SDAH-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "SDAH-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "ALD-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "20104",
+        "22537",
+        "22122"
+      ],
+      "tmTrains": [
+        "22122",
+        "20104",
+        "22537"
+      ]
+    },
+    {
+      "key": "CNB-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "02576",
+        "12511"
+      ],
+      "tmTrains": [
+        "02576",
+        "12511"
+      ]
+    },
+    {
+      "key": "CNB-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15065",
+        "22537",
+        "22122",
+        "12533"
+      ],
+      "tmTrains": [
+        "12533",
+        "22122",
+        "15065",
+        "22537"
+      ]
+    },
+    {
+      "key": "CNB-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "22537",
+        "22122"
+      ],
+      "tmTrains": [
+        "22122",
+        "22537"
+      ]
+    },
+    {
+      "key": "CNB-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "20818",
+        "12802",
+        "12876"
+      ],
+      "tmTrains": [
+        "20818",
+        "12876",
+        "12802"
+      ]
+    },
+    {
+      "key": "CNB-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12802",
+        "12876"
+      ],
+      "tmTrains": [
+        "12802",
+        "12876"
+      ]
+    },
+    {
+      "key": "CNB-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12566",
+        "12562",
+        "02570"
+      ],
+      "tmTrains": [
+        "12566",
+        "02570",
+        "12562"
+      ]
+    },
+    {
+      "key": "CNB-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12937",
+        "22308",
+        "12312",
+        "12302",
+        "12324",
+        "12314",
+        "12988"
+      ],
+      "tmTrains": [
+        "12302",
+        "12314",
+        "12988",
+        "12937",
+        "22308",
+        "12324",
+        "12312"
+      ]
+    },
+    {
+      "key": "CNB-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "15270"
+      ],
+      "irctcTrains": [
+        "14006",
+        "02564",
+        "12522",
+        "19037",
+        "12566",
+        "15708",
+        "12554",
+        "12562",
+        "11123",
+        "02570"
+      ],
+      "tmTrains": [
+        "12566",
+        "02570",
+        "11123",
+        "02564",
+        "12522",
+        "15708",
+        "15270",
+        "12554",
+        "12562",
+        "14006",
+        "19037"
+      ]
+    },
+    {
+      "key": "CNB-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "11106"
+      ],
+      "irctcTrains": [
+        "15667",
+        "12304",
+        "19321",
+        "12394",
+        "15484",
+        "15657",
+        "12368",
+        "12310",
+        "13240",
+        "20802",
+        "13414"
+      ],
+      "tmTrains": [
+        "12304",
+        "12394",
+        "12310",
+        "12368",
+        "11106",
+        "15667",
+        "15484",
+        "15657",
+        "20802",
+        "19321",
+        "13240",
+        "13414"
+      ]
+    },
+    {
+      "key": "CNB-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "15657",
+        "12368",
+        "13414"
+      ],
+      "tmTrains": [
+        "12368",
+        "15657",
+        "13414"
+      ]
+    },
+    {
+      "key": "CNB-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12937",
+        "22308",
+        "12312",
+        "12302",
+        "12304",
+        "12324"
+      ],
+      "tmTrains": [
+        "12302",
+        "12324",
+        "22308",
+        "12312",
+        "12937",
+        "12304"
+      ]
+    },
+    {
+      "key": "CNB-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12314",
+        "12988"
+      ],
+      "tmTrains": [
+        "12314",
+        "12988"
+      ]
+    },
+    {
+      "key": "CNB-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "CNB-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11124"
+      ],
+      "tmTrains": [
+        "11124"
+      ]
+    },
+    {
+      "key": "JHS-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "JHS-GWL",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-CSTM",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-LTT",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-PA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-NGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "20806",
+        "12626",
+        "12622",
+        "12708",
+        "12406",
+        "12724",
+        "12722",
+        "22692",
+        "12616",
+        "16032",
+        "12650",
+        "18238",
+        "12804"
+      ],
+      "tmTrains": [
+        "22692",
+        "12724",
+        "20806",
+        "12406",
+        "12616",
+        "12626",
+        "16032",
+        "12650",
+        "12804",
+        "12708",
+        "12622",
+        "12722",
+        "18238"
+      ]
+    },
+    {
+      "key": "GWL-DR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12138",
+        "11058"
+      ],
+      "tmTrains": [
+        "12138",
+        "11058"
+      ]
+    },
+    {
+      "key": "GWL-KYN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "22222",
+        "12618",
+        "12138",
+        "11058"
+      ],
+      "tmTrains": [
+        "22222",
+        "12618",
+        "12138",
+        "11058"
+      ]
+    },
+    {
+      "key": "GWL-TNA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11058"
+      ],
+      "tmTrains": [
+        "11058"
+      ]
+    },
+    {
+      "key": "GWL-SUR",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "12628"
+      ],
+      "tmTrains": [
+        "12628"
+      ]
+    },
+    {
+      "key": "GWL-VSKP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18508"
+      ],
+      "irctcTrains": [
+        "20806",
+        "20808",
+        "12804"
+      ],
+      "tmTrains": [
+        "20806",
+        "12804",
+        "20808",
+        "18508"
+      ]
+    },
+    {
+      "key": "GWL-BBS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [
+        "18508"
+      ],
+      "irctcTrains": [
+        "20808",
+        "18478"
+      ],
+      "tmTrains": [
+        "20808",
+        "18508",
+        "18478"
+      ]
+    },
+    {
+      "key": "GWL-PURI",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "18478"
+      ],
+      "tmTrains": [
+        "18478"
+      ]
+    },
+    {
+      "key": "GWL-DBG",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-GYA",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-DHN",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-MFP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11123"
+      ],
+      "tmTrains": [
+        "11123"
+      ]
+    },
+    {
+      "key": "GWL-PNBE",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-BGP",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-HWH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-SDAH",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-ALD",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    },
+    {
+      "key": "GWL-CNB",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [
+        "11123"
+      ],
+      "tmTrains": [
+        "11123"
+      ]
+    },
+    {
+      "key": "GWL-JHS",
+      "trainNotOnTm": [],
+      "trainNotOnIrctc": [],
+      "irctcTrains": [],
+      "tmTrains": []
+    }
+  ],
+  "date": "24-07-2022"
+}

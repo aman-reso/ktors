@@ -2,6 +2,7 @@ package com.example.manager
 
 import com.example.compare.CompareTrainList
 import com.example.compare.CustomResponse
+import com.example.setup.getStnList
 import com.example.utility.CommonUtils
 import kotlinx.coroutines.*
 
@@ -15,7 +16,8 @@ object Controller {
     suspend fun start(commandKey: Int, oCode: String?, dCode: String?, dateLimit: Int, callback: suspend (Response) -> Unit) {
         requests = ArrayList()
         coroutineScope {
-            val popularStations = getPopularStations.getPopularStations()
+            val popularStations = getStnList()
+                //getPopularStations.getPopularStations()
             System.out.println(popularStations)
             async {
                 maxLimit = dateLimit
@@ -108,6 +110,6 @@ object Controller {
 
 }
 
-data class Response(var list: ArrayList<SingleItem>, var date: String? = "")
-data class SingleItem(var key: String, var trainNotOnTm: ArrayList<String>, var trainNotOnIrctc: ArrayList<String>,
-                      var irctcTrains: ArrayList<String>? = ArrayList(), var tmTrains: ArrayList<String>? = ArrayList())
+data class Response(var list: ArrayList<SingleItem>?=null, var date: String? = "")
+data class SingleItem(var key: String?="", var trainNotOnTm: ArrayList<String>?=null, var trainNotOnIrctc: ArrayList<String>?=null,
+                      var irctcTrains: ArrayList<String>? = null, var tmTrains: ArrayList<String>? = null)

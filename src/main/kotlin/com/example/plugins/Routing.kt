@@ -41,10 +41,15 @@ fun Application.configureRouting() {
     }
     routing {
         get("/single") {
-            runBlocking {
-                TmApiNetwork().startLogic()
+            try {
+                TmApiNetwork().startLogic {
+                    println(it)
+                    call.respond(it)
+                }
+            } catch (e: java.lang.Exception) {
+                call.respond("error-->${e.localizedMessage}")
             }
-            call.respond("hii")
+//            call.respond("hii")
         }
     }
 }
