@@ -8,12 +8,14 @@ import io.ktor.client.call.*
 import io.ktor.client.engine.cio.*
 import io.ktor.client.plugins.*
 import io.ktor.client.request.*
+import org.json.JSONArray
+import org.json.JSONObject
 
 val ktorHttpClient = HttpClient(CIO) {
     install(HttpTimeout) {
-        requestTimeoutMillis = 30000
-        connectTimeoutMillis = 30000
-        socketTimeoutMillis = 30000
+        requestTimeoutMillis = 1200000
+        connectTimeoutMillis = 120000
+        socketTimeoutMillis = 120000
     }
 }
 val client = HttpClient(CIO) {
@@ -29,16 +31,24 @@ const val PATH_IRCTC = "/eticketing/protected/mapps1/altAvlEnq/TC"
 const val BASE_URL_TM = "https://www.trainman.in"
 const val PATH_TM = ""
 suspend fun getTrainListFromIRCTC(origin: String, dest: String, irctcDate: String, doesRun: String): ArrayList<String> {
+    val key = "$origin--$dest"
     val httpResponse = ktorHttpClient.post(BASE_URL_IRCTC + PATH_IRCTC) {
         header("greq", System.currentTimeMillis())
         header("Content-Type", "application/json")
         setBody(CommonUtils.getTrainListIRCTC(origin, dest, irctcDate))
     }
-    val response = httpResponse.body<String>()
-    return GetIrctcFormattedTrainList.formatApiResponseFromIRCTC(origin, dest, doesRun, response)
+    return try {
+        val response = httpResponse.body<String>()
+        return GetIrctcFormattedTrainList.formatApiResponseFromIRCTC(origin, dest, doesRun, response)
+    } catch (e: java.lang.Exception) {
+        println(key + "--" + e.localizedMessage)
+        ArrayList()
+    }
+
 }
 
 suspend fun getTrainListFromTrainman(origin: String, dest: String, tmDate: String, index: Int): ArrayList<String> {
+    val key = "$origin--$dest"
     val httpResponse = ktorHttpClient.get("$BASE_URL_TM/services/trains/$origin/$dest") {
         header("greq", System.currentTimeMillis())
         header("Content-Type", "application/json")
@@ -49,10 +59,13 @@ suspend fun getTrainListFromTrainman(origin: String, dest: String, tmDate: Strin
         parameter("class", "ALL")
         parameter("date", tmDate)
     }
-    val response = httpResponse.body<String>()
-    return GetTrainmanFormattedTrainList.formattedTrainsFromTrainMan(origin, dest, index, response)
+    return try {
+        val response = httpResponse.body<String>()
+        GetTrainmanFormattedTrainList.formattedTrainsFromTrainMan(origin, dest, index, response)
+
+    } catch (e: java.lang.Exception) {
+        println(key + "--" + e.localizedMessage)
+        ArrayList()
+    }
 }
-//given().queryParam("key", "012562ae-60a9-4fcd-84d6-f1354ee1ea48").queryParam("sort", "smart")
-//                    .queryParam("quota", "GN").queryParam("meta", "true").queryParam("class", "ALL")
-//                    .queryParam("date", tmDate)
-//                    .`when`().get("services/trains/$origin/$dest")
+

@@ -9,11 +9,12 @@ import kotlinx.coroutines.*
 class TmApiNetwork {
     private val getPopularStations by lazy { GetPopularStations() }
     private val mainBaseController: MainBaseController by lazy { MainBaseController() }
-    private var requests = ArrayList<Deferred<SingleItem>>()
+    private var requests = java.util.Collections.synchronizedList(mutableListOf<Deferred<SingleItem>>())
     suspend fun startLogic(callback: suspend (Response) -> Unit) {
-        supervisorScope {
-            val popularStations = getStnList()
-            //getPopularStations.getPopularStations()
+        runBlocking {
+            val popularStations =  getPopularStations.getPopularStations()
+                //GetTrainStationCode.getAllStationCode().subList(0, 20)
+
             val irctcDate: String = CommonUtils.dateFormatForIrctc(0)
             val tmDate: String = CommonUtils.dateFormatForTrainMan(0)
             val doesRun: String = CommonUtils.getDay()
@@ -22,8 +23,8 @@ class TmApiNetwork {
                 popularStations.forEachIndexed { index, s ->
                     if (i != index) {
                         val request = async { mainBaseController.controlFunction(v, s, irctcDate, tmDate, doesRun, doesRunIndex) }
+                        System.out.println(request.await())
                         requests.add(request)
-
                     }
                 }
             }

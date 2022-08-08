@@ -16,9 +16,8 @@ object Controller {
     suspend fun start(commandKey: Int, oCode: String?, dCode: String?, dateLimit: Int, callback: suspend (Response) -> Unit) {
         requests = ArrayList()
         coroutineScope {
-            val popularStations = getStnList()
-                //getPopularStations.getPopularStations()
-            System.out.println(popularStations)
+            val popularStations = getPopularStations.getPopularStations()
+            System.out.println(popularStations.size)
             async {
                 maxLimit = dateLimit
                 startGettingResponseFromIrctc(commandKey, oCode, dCode, popularStations, callback)
@@ -110,6 +109,6 @@ object Controller {
 
 }
 
-data class Response(var list: ArrayList<SingleItem>?=null, var date: String? = "")
-data class SingleItem(var key: String?="", var trainNotOnTm: ArrayList<String>?=null, var trainNotOnIrctc: ArrayList<String>?=null,
+data class Response(var list: ArrayList<SingleItem>? = null, var date: String? = "")
+data class SingleItem(var key: String? = "", var trainNotOnTm: ArrayList<String>? = null, var trainNotOnIrctc: ArrayList<String>? = null,
                       var irctcTrains: ArrayList<String>? = null, var tmTrains: ArrayList<String>? = null)

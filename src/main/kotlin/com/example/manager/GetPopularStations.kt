@@ -1,5 +1,6 @@
 package com.example.manager
 
+import com.example.setup.getStnList
 import io.restassured.RestAssured
 import org.json.JSONObject
 
@@ -22,6 +23,10 @@ class GetPopularStations {
         } catch (e: Exception) {
 
         }
+        for (e in getStnList()) {
+//            stationListV2.add(e)
+        }
+
         return stationListV2
     }
 }

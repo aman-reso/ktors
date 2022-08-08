@@ -41,16 +41,27 @@ fun Application.configureRouting() {
     }
     routing {
         get("/single") {
+            System.out.println(System.currentTimeMillis())
             try {
-                TmApiNetwork().startLogic {
-                    println(it)
-                    call.respond(it)
+                runBlocking {
+                    TmApiNetwork().startLogic {
+                        println(it)
+                        System.out.println(System.currentTimeMillis())
+                        call.respond(it)
+                    }
                 }
-            } catch (e: java.lang.Exception) {
+            } catch (e: Exception) {
                 call.respond("error-->${e.localizedMessage}")
             }
 //            call.respond("hii")
         }
     }
+
+    routing {
+        get ("resume"){
+
+        }
+    }
 }
+
 
