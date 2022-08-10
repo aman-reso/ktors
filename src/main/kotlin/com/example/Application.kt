@@ -1,6 +1,7 @@
 package com.example
 
 import com.example.plugins.configureRouting
+import com.example.plugins.connections
 import com.example.sockets.Connection
 import io.ktor.serialization.gson.*
 import io.ktor.server.application.*
@@ -44,7 +45,6 @@ fun Application.configureSockets() {
     }
 
     routing {
-        val connections = Collections.synchronizedSet<Connection?>(LinkedHashSet())
         webSocket("/") {
             val thisConnection = Connection(this)
             connections += thisConnection

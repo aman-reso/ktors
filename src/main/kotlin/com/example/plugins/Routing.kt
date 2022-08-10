@@ -3,10 +3,13 @@ package com.example.plugins
 import com.example.manager.Controller
 import com.example.setup.MainBaseController
 import com.example.setup.TmApiNetwork
+import com.example.sockets.Connection
 import io.ktor.server.routing.*
 import io.ktor.server.application.*
 import io.ktor.server.response.*
+import io.ktor.websocket.*
 import kotlinx.coroutines.runBlocking
+import java.util.*
 
 fun Application.configureRouting() {
 
@@ -61,14 +64,21 @@ fun Application.configureRouting() {
         get("/pnr") {
             val parameters = this.call.parameters
             if (parameters.contains(PNR_NUM_KEY)) {
-                val pnrNumber= parameters[PNR_NUM_KEY]
+                val pnrNumber = parameters[PNR_NUM_KEY]
                 //when receive parameter
                 call.respond("we have received pnr:-$pnrNumber")
-            }else{
+                connections.forEach {
+                    if (pnrNumber != null) {
+                        it.session.send(pnrNumber)
+                    }
+                }
+            } else {
                 call.respond("we didn't received pnr")
             }
         }
     }
 }
 
-const val PNR_NUM_KEY="pnr_num"
+const val PNR_NUM_KEY = "pnr_num"
+val connections = Collections.synchronizedSet<Connection?>(LinkedHashSet())
+
