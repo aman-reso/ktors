@@ -1,24 +1,17 @@
 package com.example
 
-import com.example.manager.Controller
 import com.example.plugins.configureRouting
 import com.example.sockets.Connection
-import io.ktor.client.engine.cio.*
-import io.ktor.http.*
 import io.ktor.serialization.gson.*
 import io.ktor.server.application.*
-import io.ktor.server.engine.*
 import io.ktor.server.netty.*
 import io.ktor.server.plugins.contentnegotiation.*
-import io.ktor.server.response.*
 import io.ktor.server.routing.*
-import java.text.DateFormat
 import io.ktor.server.websocket.*
 import io.ktor.websocket.*
+import java.text.DateFormat
 import java.time.Duration
-
 import java.util.*
-import kotlin.collections.LinkedHashSet
 
 fun main(args: Array<String>): Unit = EngineMain.main(args)
 
@@ -65,6 +58,9 @@ fun Application.configureSockets() {
                         connections.forEach {
                             it.session.send(textWithUsername)
                         }
+                    }
+                    is Frame.Ping->{
+
                     }
                     else -> {
 

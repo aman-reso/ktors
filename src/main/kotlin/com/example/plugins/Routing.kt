@@ -58,10 +58,17 @@ fun Application.configureRouting() {
     }
 
     routing {
-        get ("resume"){
-
+        get("/pnr") {
+            val parameters = this.call.parameters
+            if (parameters.contains(PNR_NUM_KEY)) {
+                val pnrNumber= parameters[PNR_NUM_KEY]
+                //when receive parameter
+                call.respond("we have received pnr:-$pnrNumber")
+            }else{
+                call.respond("we didn't received pnr")
+            }
         }
     }
 }
 
-
+const val PNR_NUM_KEY="pnr_num"
