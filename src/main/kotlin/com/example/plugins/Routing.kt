@@ -1,17 +1,13 @@
 package com.example.plugins
 
 import com.example.manager.Controller
-import com.example.setup.MainBaseController
 import com.example.setup.TmApiNetwork
 import com.example.sockets.Connection
-import io.ktor.server.routing.*
 import io.ktor.server.application.*
 import io.ktor.server.response.*
+import io.ktor.server.routing.*
 import io.ktor.server.websocket.*
-import io.ktor.websocket.*
-import io.ktor.websocket.serialization.*
 import kotlinx.coroutines.runBlocking
-import java.net.http.WebSocket
 import java.util.*
 
 fun Application.configureRouting() {
