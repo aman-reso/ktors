@@ -7,8 +7,11 @@ import com.example.sockets.Connection
 import io.ktor.server.routing.*
 import io.ktor.server.application.*
 import io.ktor.server.response.*
+import io.ktor.server.websocket.*
 import io.ktor.websocket.*
+import io.ktor.websocket.serialization.*
 import kotlinx.coroutines.runBlocking
+import java.net.http.WebSocket
 import java.util.*
 
 fun Application.configureRouting() {
@@ -69,7 +72,13 @@ fun Application.configureRouting() {
                 call.respond("we have received pnr:-$pnrNumber")
                 connections.forEach {
                     if (pnrNumber != null) {
-                        it.session.send(pnrNumber)
+                        if (pnrNumber.length==10){
+                            val requestByUser = RequestByUser("pnr", pnrNumber)
+                            val x = it.session as WebSocketServerSession
+                            x.sendSerialized(requestByUser)
+                        }else{
+                            call.respond("please send the correct pnr number")
+                        }
                     }
                 }
             } else {
@@ -80,5 +89,6 @@ fun Application.configureRouting() {
 }
 
 const val PNR_NUM_KEY = "pnr_num"
-val connections = Collections.synchronizedSet<Connection?>(LinkedHashSet())
+val connections: MutableSet<Connection> = Collections.synchronizedSet(LinkedHashSet())
 
+data class RequestByUser(var type: String, var pnrNumber: String)

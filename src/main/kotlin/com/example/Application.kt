@@ -1,5 +1,6 @@
 package com.example
 
+import com.example.plugins.RequestByUser
 import com.example.plugins.configureRouting
 import com.example.plugins.connections
 import com.example.sockets.Connection
@@ -42,6 +43,7 @@ fun Application.configureSockets() {
         timeout = Duration.ofSeconds(15)
         maxFrameSize = Long.MAX_VALUE
         masking = false
+        contentConverter=GsonWebsocketContentConverter()
     }
 
     routing {
@@ -49,6 +51,7 @@ fun Application.configureSockets() {
             val thisConnection = Connection(this)
             connections += thisConnection
             send("You've logged in as [${thisConnection.name}]")
+            sendSerialized(RequestByUser("1", "ama"))
 
             for (frame in incoming) {
                 when (frame) {

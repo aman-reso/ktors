@@ -7,6 +7,6 @@ class Connection(val session: DefaultWebSocketSession) {
     companion object {
         var lastId = AtomicInteger(0)
     }
-
+    @get:Synchronized
     val name = "user${lastId.getAndIncrement()}"
 }
